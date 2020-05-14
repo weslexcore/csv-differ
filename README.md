@@ -1,3 +1,9 @@
+# Node CSV Differ
+
+### Requirements:
+
+- Node JS (only tested w/ v12.x but should be compatible with most versions)
+
 ### Arguments
 
 `node index.js input1.csv input2.csv output.csv`
